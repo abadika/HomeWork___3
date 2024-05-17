@@ -1,0 +1,2 @@
+typealias MyString = String
+typealias MyScanner = Scanner
